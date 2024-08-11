@@ -6,7 +6,7 @@ The package is currently under development and remains unstable at this stage. W
 ## Installation
 #### for developers
 
-if you want to contribute or wnat to improve , you can install it from the pupi website and with the command below 
+if you want to contribute or wnat to improve , you can install it from the pypi website and with the command below 
 
 ```bash
   pip install onemriganka
